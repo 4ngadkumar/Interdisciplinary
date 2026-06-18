@@ -42,6 +42,7 @@ const App = {
       case 'investor':  InvestorPage.render();  break;
       case 'hackathon': HackathonPage.render(); break;
       case 'network':   NetworkPage.render();   break;
+      case 'ai':        AIPage.render();        break;
       case 'profile':   ProfilePage.render();   break;
       case 'terms':     TermsPage.render();     break;
       default:          DashboardPage.render();

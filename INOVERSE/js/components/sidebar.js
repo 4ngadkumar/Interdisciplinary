@@ -10,6 +10,7 @@ const Sidebar = {
       { id: 'investor', icon: 'fa-chart-line', label: 'Investor Zone' },
       { id: 'hackathon', icon: 'fa-code', label: 'Hackathons' },
       { id: 'network', icon: 'fa-users', label: 'Network' },
+      { id: 'ai', icon: 'fa-brain', label: 'AI Studio', badge: 'AI' },
       { id: 'profile', icon: 'fa-user', label: 'My Profile' },
       { id: 'terms', icon: 'fa-file-contract', label: 'Terms & Conditions' },
     ];
